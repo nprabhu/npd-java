@@ -10,7 +10,7 @@
   <!-- Hero Section -->
   <header class="hero">
     <div class="hero-content">
-      <h1>Welcome to CCIT - HYD</h1>
+      <h1>Welcome to CCIT</h1>
       <p>Chhose your course</p>
       <a href="#contact" class="btn">Get Started</a>
     </div>
