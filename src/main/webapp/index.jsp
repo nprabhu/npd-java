@@ -21,7 +21,7 @@
     <h2>Our Services</h2>
     <div class="service-cards">
       <div class="card">
-        <img src="https://i.ytimg.com/vi/9sHgH_TO5KI/maxresdefault.jpg" alt="Residential Design">
+        <img src="https://miro.medium.com/v2/resize:fit:676/1*fiOou8ZYaZe-Ka8NUyovMw.png" alt="Residential Design">
         <h3>CI/CD setup</h3>
         <p>Jenkins is a powerful automation tool for CI/CD.</p>
       </div>
