@@ -21,19 +21,19 @@
     <h2>Our Services</h2>
     <div class="service-cards">
       <div class="card">
-        <img src="https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1600&q=80" alt="Residential Design">
-        <h3>Residential Design</h3>
-        <p>We create beautiful and functional living spaces tailored to your needs.</p>
+        <img src="https://miro.medium.com/v2/resize:fit:760/0*9Fq4LjrFbxcAcRrL.png" alt="Residential Design">
+        <h3>CI/CD setup</h3>
+        <p>Jenkins is a powerful automation tool for CI/CD.</p>
       </div>
       <div class="card">
-        <img src="https://images.unsplash.com/photo-1497366858526-0766cadbe8fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1600&q=80" alt="Commercial Design">
-        <h3>Commercial Design</h3>
-        <p>Designing workspaces that inspire productivity and creativity.</p>
+        <img src="https://spinspire.com/sites/default/files/2023-03/1640019487-og-image.png" alt="Commercial Design">
+        <h3>Build your infra</h3>
+        <p>Terraform is essential for Infrastructure as Code (IaC).</p>
       </div>
       <div class="card">
-        <img src="https://images.unsplash.com/photo-1524758631624-e2822e304c36?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1600&q=80" alt="Consultation">
-        <h3>Consultation</h3>
-        <p>Expert advice to help you make the best design decisions.</p>
+        <img src="https://contabo.com/blog/wp-content/uploads/2023/12/image-4.jpeg" alt="Consultation">
+        <h3>Containerization</h3>
+        <p>Docker simplifies containerization, while Kubernetes automates container orchestration.</p>
       </div>
     </div>
   </section>
@@ -62,7 +62,7 @@
 
   <!-- Footer -->
   <footer>
-    <p>&copy; 2023 Interior Design Studio. All rights reserved.</p>
+    <p>&copy; 2025 CCIT. All rights reserved.</p>
   </footer>
 
   <script src="script.js"></script>
